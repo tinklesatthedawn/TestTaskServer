@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="DAL/DAL.csproj" />
+  <Project Path="DependencyInjection/Dependencies.csproj" />
+  <Project Path="Logger/Logger.csproj" />
+  <Project Path="Network/Network.csproj" />
+  <Project Path="TestTaskServer/TestTaskServer.csproj" />
+  <Project Path="Utils/Utils.csproj" />
+</Solution>
